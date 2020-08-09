@@ -2,7 +2,7 @@
 
 ## I'm a Full Stack Developer!
 
-- 🔭 I’m currently working for a start-up <a href="http://piktorlabs.com" target="_blank">Piktorlabs</a>.
+- 🔭 I’m currently working for a start-up <a href="http://piktorlabs.com" onclick="return ! window.open(this.href);">Piktorlabs</a>.
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Contribute to Open Source projects
 - ⚡ Fun fact: I love to code
