@@ -9,8 +9,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="parasagrawal71 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" target="_blank" />][linkedin]
-[<img align="left" alt="parasagrawal71 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" target="_blank" />][instagram]
+[![LinkedIn][<img align="left" alt="parasagrawal71 | linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]][linkedin]
+[<img align="left" alt="parasagrawal71 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -37,7 +37,7 @@
 
 ---
 
-<img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=parasagrawal71&hide=contribs,prs,issues" style="pointer-events: none;cursor: default" />
+<img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=parasagrawal71&hide=contribs,prs,issues" />
 <img align="left" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parasagrawal71&hide=kotlin" />
 
 [piktorlabs_website]: http://piktorlabs.com
