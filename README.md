@@ -37,7 +37,7 @@
 
 ---
 
-<img align="left" alt="parasagrawal71's Github Stats" src="https://github-readme-stats.vercel.app/api?username=parasagrawal71&hide=contribs,prs,issues" />
+<img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=parasagrawal71&hide=contribs,prs,issues" />
 <img align="left" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parasagrawal71&hide=kotlin" />
 
 [piktorlabs_website]: http://piktorlabs.com
