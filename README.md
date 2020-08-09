@@ -4,8 +4,8 @@
 
 - 🔭 I’m currently working for a start-up [Piktorlabs][piktorlabs_website].
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Contribute to Open Source projects
-- ⚡ Fun fact, maybe?: I love to code
+- 🥅 2020 Goals: Learn Competitive Programming
+- ⚡ About me: I love to code
 
 ### Connect with me:
 
