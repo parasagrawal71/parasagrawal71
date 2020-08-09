@@ -36,7 +36,7 @@
 ---
 
 <img align="left" alt="parasagrawal71's Github Stats" src="https://github-readme-stats.vercel.app/api?username=parasagrawal71&hide=contribs,prs,issues" />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parasagrawal71)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parasagrawal71)](https://github.com/parasagrawal71/github-readme-stats)
 
 [piktorlabs_website]: http://piktorlabs.com
 [linkedin]: https://www.linkedin.com/in/parasagrawal71
