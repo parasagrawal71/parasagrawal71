@@ -35,7 +35,7 @@
 
 ---
 
-<img align="left" alt="parasagrawal71's Github Stats" src="https://github-readme-stats.vercel.app/api?username=parasagrawal71e" />
+<img align="left" alt="parasagrawal71's Github Stats" src="https://github-readme-stats.vercel.app/api?username=parasagrawal71" />
 
 [piktorlabs_website]: http://piktorlabs.com
 [linkedin]: https://www.linkedin.com/in/parasagrawal71
