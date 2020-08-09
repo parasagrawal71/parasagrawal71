@@ -44,3 +44,4 @@
 [linkedin]: https://www.linkedin.com/in/parasagrawal71
 [instagram]: https://www.instagram.com/paras__fbg
 [github]: https://github.com/parasagrawal71
+[self]: #
