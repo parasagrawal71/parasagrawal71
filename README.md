@@ -16,7 +16,7 @@
 
 ### Languages and Tools:
 
-[<img title="HTML5" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][none]
+[<img title="HTML5" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][github]
 [<img align="left" title="CSS3" alt="css3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][none]
 [<img align="left" title="Javascript" alt="javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][none]
 [<img align="left" title="React" alt="react" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][none]
@@ -43,4 +43,5 @@
 [piktorlabs_website]: http://piktorlabs.com
 [linkedin]: https://www.linkedin.com/in/parasagrawal71
 [instagram]: https://www.instagram.com/paras__fbg
+[github]: https://github.com/parasagrawal71
 [none]: #
