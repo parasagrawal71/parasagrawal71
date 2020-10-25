@@ -45,6 +45,6 @@
 
 [piktorlabs_website]: http://piktorlabs.com
 [gmail]: parasagrawal71@gmail.com
+[portfolio]: http://parasagrawal.web.app
 [linkedin]: https://www.linkedin.com/in/parasagrawal71
 [instagram]: https://www.instagram.com/paras__fbg
-[portfolio]: http://parasagrawal.web.app
