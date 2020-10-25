@@ -11,7 +11,7 @@
 
 [<img align="left" title="LinkedIn" alt="parasagrawal71 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" title="Instagram" alt="parasagrawal71 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" title="Portfolio" alt="parasagrawal71 | Portfolio" width="22px" src="https://raw.githubusercontent.com/parasagrawal71/parasagrawal71/master/img/portfolio.png" />][portfolio]
+[<img align="left" title="Portfolio" alt="parasagrawal71 | Portfolio" width="24px" src="https://raw.githubusercontent.com/parasagrawal71/parasagrawal71/master/img/portfolio.png" />][portfolio]
 
 <br />
 
