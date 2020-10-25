@@ -9,6 +9,7 @@
 
 ### Connect with me:
 
+[<img align="left" title="Mail" alt="parasagrawal71 | Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 [<img align="left" title="LinkedIn" alt="parasagrawal71 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" title="Instagram" alt="parasagrawal71 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" title="Portfolio" alt="parasagrawal71 | Portfolio" width="24px" src="https://raw.githubusercontent.com/parasagrawal71/parasagrawal71/master/img/portfolio.png" />][portfolio]
@@ -43,7 +44,7 @@
 <img align="left" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parasagrawal71&hide=kotlin" />
 
 [piktorlabs_website]: http://piktorlabs.com
-[mail]: parasagrawal71@gmail.com
+[gmail]: parasagrawal71@gmail.com
 [linkedin]: https://www.linkedin.com/in/parasagrawal71
 [instagram]: https://www.instagram.com/paras__fbg
 [portfolio]: http://parasagrawal.web.app
