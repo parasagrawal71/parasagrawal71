@@ -2,10 +2,10 @@
 
 ## I'm a Full Stack Developer!
 
-- 🔭 I’m currently working for a start-up [Piktorlabs][piktorlabs_website].
+- 🔭 I’m currently working for [nference][company_website].
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Learn Competitive Programming
-- ⚡ About me: I love to code
+- 🥅 2021 Goals: Learn Competitive Programming
+- ⚡ About me: I love to solve problems
 
 ### Connect with me:
 
@@ -43,7 +43,7 @@
 <img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=parasagrawal71&hide=contribs,prs,issues" />
 <img align="left" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parasagrawal71&hide=kotlin" />
 
-[piktorlabs_website]: http://piktorlabs.com
+[company_website]: https://nference.ai
 [gmail]: parasagrawal71@gmail.com
 [portfolio]: http://parasagrawal.web.app
 [linkedin]: https://www.linkedin.com/in/parasagrawal71
