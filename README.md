@@ -3,7 +3,6 @@
 ## I'm a Full Stack Developer!
 
 - 🔭 I’m currently working for [nference][company_website].
-- 🌱 I’m currently learning everything 🤣
 - 🥅 2022 Goals: Learn Competitive Programming
 - ⚡ About me: I love to solve problems
 
