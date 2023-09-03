@@ -2,7 +2,7 @@
 
 ## I'm a Full Stack Developer!
 
-- 🔭 I’m currently working for [nference][company_website].
+- 🔭 I’m currently working for [C2FO][company_website].
 - 🥅 2023 Goals: Learn System Design
 - ⚡ About me: I enjoy challenging myself and finding creative solutions to problems.
 
@@ -42,7 +42,7 @@
 <img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=parasagrawal71&hide=contribs,prs,issues" />
 <img align="left" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parasagrawal71&hide=kotlin" />
 
-[company_website]: https://nference.ai
+[company_website]: https://c2fo.com/
 [gmail]: parasagrawal71@gmail.com
 [portfolio]: http://parasagrawal.web.app
 [linkedin]: https://www.linkedin.com/in/parasagrawal71
