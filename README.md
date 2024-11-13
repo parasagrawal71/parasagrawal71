@@ -44,9 +44,14 @@
     <img align="left" title="MongoDB" alt="mongodb" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
     <img align="left" title="SQL" alt="sql" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
     <img align="left" title="PostgreSQL" alt="postgresql" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+</div>
+
+<br />
+<br />
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
     <!-- Separator  -->
     <img align="left" src="https://raw.githubusercontent.com/parasagrawal71/parasagrawal71/master/img/line.png" />
-    <br />
     <!-- Others -->
     <img align="left" title="Linux" alt="linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
     <img align="left" title="Git" alt="git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
