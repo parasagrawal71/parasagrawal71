@@ -19,7 +19,6 @@
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
     <img align="left" title="Javascript" alt="javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-    <span style="padding-right:15px;">|</span>
     <img align="left" title="NodeJS" alt="node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
     <img align="left" title="React" alt="react" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
     <img align="left" title="MongoDB" alt="mongodb" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
