@@ -6,6 +6,7 @@
 -   🥅 2024 Goals: Improve System Design
 -   ⚡ About me: I enjoy challenging myself and finding creative solutions to problems.
 
+
 ### Connect with me:
 
 <a href="mailto:parasagrawal71@gmail.com"><img align="left" title="Mail" alt="parasagrawal71 | Mail" width="22px" src="https://cdn.simpleicons.org/gmail" /></a>
@@ -13,6 +14,8 @@
 <a href="https://www.linkedin.com/in/parasagrawal71" target="_blank" rel="noopener noreferrer"><img align="left" title="LinkedIn" alt="parasagrawal71 | LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin" /></a>
 <a href="https://www.instagram.com/paras__fbg" target="_blank" rel="noopener noreferrer"><img align="left" title="Instagram" alt="parasagrawal71 | Instagram" width="22px" src="https://cdn.simpleicons.org/instagram" /></a>
 
+
+<br />
 <br />
 
 ### Languages and Tools:
