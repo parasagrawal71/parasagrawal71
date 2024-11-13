@@ -73,6 +73,6 @@
 
 [company_website]: https://c2treds.com/
 [gmail]: parasagrawal71@gmail.com
-[portfolio]: http://parasagrawal.web.app
+[portfolio]: https://parasagrawal.com
 [linkedin]: https://www.linkedin.com/in/parasagrawal71
 [instagram]: https://www.instagram.com/paras__fbg
