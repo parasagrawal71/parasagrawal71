@@ -54,7 +54,7 @@
     <img align="left" title="Docker" alt="docker" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
     <!--  -->
     <!-- <img align="left" title="React Native" alt="react-native" width="26px" src="https://raw.githubusercontent.com/parasagrawal71/parasagrawal71/master/img/react-native.png" /> -->
-    <!-- <img align="left" title="GoLang" alt="golang" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.sv" /> -->
+    <!-- <img align="left" title="GoLang" alt="golang" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" /> -->
 </div>
 
 <br />
