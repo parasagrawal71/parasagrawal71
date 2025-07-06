@@ -1,4 +1,4 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="wave" height="32px">, I'm Paras Agrawal
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="wave" height="32px" width="32px" />, I'm Paras Agrawal
 
 ## I'm a Full Stack Developer!
 
