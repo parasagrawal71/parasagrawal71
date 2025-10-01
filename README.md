@@ -20,7 +20,7 @@
 
 <table>
   <tr>
-    <td><strong>Backend:</strong></td>
+    <td><strong>Backend</strong></td>
     <td valign="middle">
       <!-- Backend -->
         <img align="left" title="GoLang" alt="golang" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />
