@@ -21,26 +21,29 @@
 ### Languages and Tools:
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-    <span>Backend</span>
-    <!-- Backend -->
-    <img align="left" title="GoLang" alt="golang" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />
-    <img align="left" title="TypeScript" alt="typescript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-    <img align="left" title="Nest.js" alt="nestjs" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
-    <img align="left" title="Node.js" alt="node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-    <img align="left" title="Python" alt="python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-    <!-- <img align="left" title="API" alt="api" width="26px" src="https://raw.githubusercontent.com/parasagrawal71/parasagrawal71/master/img/api.png" /> -->
-    <!-- Separator  -->
-    <img align="left" src="https://raw.githubusercontent.com/parasagrawal71/parasagrawal71/master/img/line.png" />
-    <br />
-    <span>Frontend</span>
-    <!-- Frontend -->
-    <img align="left" title="Javascript" alt="javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-    <img align="left" title="React.js" alt="react" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-    <img align="left" title="Next.js" alt="nextjs" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
-    <!-- <img align="left" title="HTML5" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> -->
-    <!-- <img align="left" title="CSS3" alt="css3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> -->
-    <img align="left" title="Vue" alt="vue" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
-    <!-- <img align="left" title="Redux" alt="redux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" /> -->
+    <div style="display: flex; justify-content: space-between; align-items: center;">
+        <span>Backend</span>
+        <!-- Backend -->
+        <img align="left" title="GoLang" alt="golang" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />
+        <img align="left" title="TypeScript" alt="typescript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+        <img align="left" title="Nest.js" alt="nestjs" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
+        <img align="left" title="Node.js" alt="node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+        <img align="left" title="Python" alt="python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+        <!-- <img align="left" title="API" alt="api" width="26px" src="https://raw.githubusercontent.com/parasagrawal71/parasagrawal71/master/img/api.png" /> -->
+        <!-- Separator  -->
+        <img align="left" src="https://raw.githubusercontent.com/parasagrawal71/parasagrawal71/master/img/line.png" />
+    </div>
+    <div style="display: flex; justify-content: space-between; align-items: center;">
+        <span>Frontend</span>
+        <!-- Frontend -->
+        <img align="left" title="Javascript" alt="javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+        <img align="left" title="React.js" alt="react" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+        <img align="left" title="Next.js" alt="nextjs" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+        <!-- <img align="left" title="HTML5" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> -->
+        <!-- <img align="left" title="CSS3" alt="css3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> -->
+        <img align="left" title="Vue" alt="vue" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
+        <!-- <img align="left" title="Redux" alt="redux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" /> -->
+    </div>
     <!-- Separator  -->
     <img align="left" src="https://raw.githubusercontent.com/parasagrawal71/parasagrawal71/master/img/line.png" />
     <img align="left" title="GraphQL" alt="graphql" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" />
