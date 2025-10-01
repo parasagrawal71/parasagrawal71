@@ -21,6 +21,7 @@
 ### Languages and Tools:
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
+    <span>Backend</span>
     <!-- Backend -->
     <img align="left" title="GoLang" alt="golang" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />
     <img align="left" title="TypeScript" alt="typescript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
@@ -30,6 +31,8 @@
     <!-- <img align="left" title="API" alt="api" width="26px" src="https://raw.githubusercontent.com/parasagrawal71/parasagrawal71/master/img/api.png" /> -->
     <!-- Separator  -->
     <img align="left" src="https://raw.githubusercontent.com/parasagrawal71/parasagrawal71/master/img/line.png" />
+    <br />
+    <span>Frontend</span>
     <!-- Frontend -->
     <img align="left" title="Javascript" alt="javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
     <img align="left" title="React.js" alt="react" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
