@@ -31,6 +31,9 @@
         <!-- <img align="left" title="API" alt="api" width="26px" src="https://raw.githubusercontent.com/parasagrawal71/parasagrawal71/master/img/api.png" /> -->
         <img align="left" title="AWS" alt="aws" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" /> 
         <img align="left" title="Docker" alt="docker" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+        <img align="left" title="Kafka" alt="kafka" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" />
+        <img align="left" title="RabbitMQ" alt="rabbitmq" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" />
+        <img align="left" title="Redis" alt="redis" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" />
     </td>
   </tr>
   <tr>
