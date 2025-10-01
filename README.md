@@ -23,7 +23,7 @@
     <td><strong>Backend</strong></td>
     <td valign="middle">
       <!-- Backend -->
-        <img align="left" title="GoLang" alt="golang" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />
+        <img align="left" title="GoLang" alt="golang" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />
         <img align="left" title="TypeScript" alt="typescript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
         <img align="left" title="Nest.js" alt="nestjs" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
         <img align="left" title="Node.js" alt="node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
@@ -40,12 +40,12 @@
     <td><strong>Frontend</strong></td>
     <td valign="middle">
       <!-- Frontend -->
-        <img align="left" title="Javascript" alt="javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+        <img align="left" title="JavaScript" alt="javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
         <img align="left" title="React.js" alt="react" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
         <img align="left" title="Next.js" alt="nextjs" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
         <!-- <img align="left" title="HTML5" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> -->
         <!-- <img align="left" title="CSS3" alt="css3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> -->
-        <img align="left" title="Vue" alt="vue" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
+        <img align="left" title="Vue.js" alt="vue" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
         <!-- <img align="left" title="Redux" alt="redux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" /> -->
         <img align="left" title="GraphQL" alt="graphql" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" />
     </td>
@@ -54,7 +54,7 @@
     <td><strong>Database</strong></td>
     <td valign="middle">
       <!-- Database -->
-    <img align="left" title="PostgreSQL" alt="postgresql" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+    <img align="left" title="Postgresql" alt="postgresql" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
     <!-- <img align="left" title="SQL" alt="sql" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /> -->
     <img align="left" title="MongoDB" alt="mongodb" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
     </td>
@@ -68,7 +68,6 @@
     <!-- <img align="left" title="Terminal" alt="terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /> -->
     <!--  -->
     <!-- <img align="left" title="React Native" alt="react-native" width="26px" src="https://raw.githubusercontent.com/parasagrawal71/parasagrawal71/master/img/react-native.png" /> -->
-    <!-- <img align="left" title="GoLang" alt="golang" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" /> -->
     </td>
   </tr>
 </table>
