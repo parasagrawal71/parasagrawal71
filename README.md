@@ -2,10 +2,9 @@
 
 ## I'm a Full Stack Developer!
 
--   🔭 I’m currently working for [C2FO][company_website].
--   🥅 2025 Goals: Improve System Design
--   ⚡ About me: I enjoy challenging myself and finding creative solutions to problems.
-
+- 🔭 I’m currently working for [C2FO][company_website].
+- 🥅 2025 Goals: Improve System Design
+- ⚡ About me: I enjoy challenging myself and finding creative solutions to problems.
 
 ### Connect with me:
 
@@ -14,31 +13,64 @@
 <a href="https://www.linkedin.com/in/parasagrawal71" target="_blank" rel="noopener noreferrer"><img align="left" title="LinkedIn" alt="parasagrawal71 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" /></a>
 <a href="https://www.instagram.com/paras__fbg" target="_blank" rel="noopener noreferrer"><img align="left" title="Instagram" alt="parasagrawal71 | Instagram" width="22px" src="https://cdn.simpleicons.org/instagram" /></a>
 
-
 <br />
 <br />
 
 ### Languages and Tools:
 
-<div style="display: flex; flex-direction: column;">
-    Backend:
-    <!-- Backend -->
-    <img align="left" title="GoLang" alt="golang" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />
-    <img align="left" title="TypeScript" alt="typescript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-</div>
-
-<br />
-<br />
-
-<div style="display: flex; justify-content: space-between; align-items: center;">
-    <!-- Separator  -->
-    <!-- <img align="left" src="https://raw.githubusercontent.com/parasagrawal71/parasagrawal71/master/img/line.png" /> -->
-    <!-- <Placeholder> -->
-    Frontend:
-    <!-- Frontend -->
-    <img align="left" title="Javascript" alt="javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-    <img align="left" title="React.js" alt="react" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-</div>
+<table>
+  <tr>
+    <td><strong>Backend:</strong></td>
+    <td valign="middle">
+      <!-- Backend -->
+        <img align="left" title="GoLang" alt="golang" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />
+        <img align="left" title="TypeScript" alt="typescript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+        <img align="left" title="Nest.js" alt="nestjs" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
+        <img align="left" title="Node.js" alt="node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+        <img align="left" title="Python" alt="python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+        <!-- <img align="left" title="API" alt="api" width="26px" src="https://raw.githubusercontent.com/parasagrawal71/parasagrawal71/master/img/api.png" /> -->
+        <!-- Separator  -->
+        <img align="left" src="https://raw.githubusercontent.com/parasagrawal71/parasagrawal71/master/img/line.png" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Frontend</strong></td>
+    <td valign="middle">
+      <!-- Frontend -->
+        <img align="left" title="Javascript" alt="javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+        <img align="left" title="React.js" alt="react" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+        <img align="left" title="Next.js" alt="nextjs" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+        <!-- <img align="left" title="HTML5" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> -->
+        <!-- <img align="left" title="CSS3" alt="css3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> -->
+        <img align="left" title="Vue" alt="vue" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
+        <!-- <img align="left" title="Redux" alt="redux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" /> -->
+        <img align="left" title="GraphQL" alt="graphql" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Database</strong></td>
+    <td valign="middle">
+      <!-- Database -->
+    <img align="left" title="PostgreSQL" alt="postgresql" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+    <!-- <img align="left" title="SQL" alt="sql" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /> -->
+    <img align="left" title="MongoDB" alt="mongodb" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Others</strong></td>
+    <td valign="middle">
+      <!-- Others -->
+    <img align="left" title="AWS" alt="aws" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" /> 
+    <img align="left" title="Docker" alt="docker" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+    <img align="left" title="Linux" alt="linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
+    <img align="left" title="Git" alt="git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+    <!-- <img align="left" title="Terminal" alt="terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /> -->
+    <!--  -->
+    <!-- <img align="left" title="React Native" alt="react-native" width="26px" src="https://raw.githubusercontent.com/parasagrawal71/parasagrawal71/master/img/react-native.png" /> -->
+    <!-- <img align="left" title="GoLang" alt="golang" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" /> -->
+    </td>
+  </tr>
+</table>
 
 <br />
 <br />
