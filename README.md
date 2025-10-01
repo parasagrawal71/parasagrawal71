@@ -45,12 +45,6 @@
     <img align="left" title="PostgreSQL" alt="postgresql" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
     <!-- <img align="left" title="SQL" alt="sql" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /> -->
     <img align="left" title="MongoDB" alt="mongodb" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
-</div>
-
-<br />
-<br />
-
-<div style="display: flex; justify-content: space-between; align-items: center;">
     <!-- Separator  -->
     <img align="left" src="https://raw.githubusercontent.com/parasagrawal71/parasagrawal71/master/img/line.png" />
     <!-- Others -->
@@ -58,10 +52,19 @@
     <img align="left" title="Docker" alt="docker" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
     <img align="left" title="Linux" alt="linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
     <img align="left" title="Git" alt="git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-    <img align="left" title="Terminal" alt="terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+    <!-- <img align="left" title="Terminal" alt="terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /> -->
     <!--  -->
     <!-- <img align="left" title="React Native" alt="react-native" width="26px" src="https://raw.githubusercontent.com/parasagrawal71/parasagrawal71/master/img/react-native.png" /> -->
     <!-- <img align="left" title="GoLang" alt="golang" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" /> -->
+</div>
+
+<br />
+<br />
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+    <!-- Separator  -->
+    <!-- <img align="left" src="https://raw.githubusercontent.com/parasagrawal71/parasagrawal71/master/img/line.png" /> -->
+    <!-- <Placeholder> -->
 </div>
 
 <br />
