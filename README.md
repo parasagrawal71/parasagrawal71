@@ -3,7 +3,7 @@
 ## I'm a Full Stack Developer!
 
 - 🔭 I’m currently working for [C2FO][company_website].
-- 🥅 2025 Goals: Improve System Design
+- 🥅 2026 Goals: Improve System Design & Architecture
 - ⚡ About me: I enjoy challenging myself and finding creative solutions to problems.
 
 ### Connect with me:
