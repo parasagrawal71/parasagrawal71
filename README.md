@@ -78,7 +78,7 @@
 ---
 
 <!-- <img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=parasagrawal71&hide=contribs,prs,issues" /> -->
-<img align="left" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parasagrawal71&hide=kotlin,scss,html,css,vue,mdx" />
+<!-- <img align="left" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parasagrawal71&hide=kotlin,scss,html,css,vue,mdx" /> -->
 
 [company_website]: https://c2treds.com/
 [gmail]: parasagrawal71@gmail.com
