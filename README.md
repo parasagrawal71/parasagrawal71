@@ -10,7 +10,7 @@
 
 <a href="mailto:parasagrawal71@gmail.com"><img align="left" title="Mail" alt="parasagrawal71 | Mail" width="22px" src="https://cdn.simpleicons.org/gmail" /></a>
 <a href="https://www.linkedin.com/in/parasagrawal71" target="_blank" rel="noopener noreferrer"><img align="left" title="LinkedIn" alt="parasagrawal71 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" /></a>
-<a href="https://parasagrawal.web.app" target="_blank" rel="noopener noreferrer"><img align="left" title="Portfolio" alt="parasagrawal71 | Portfolio" width="26px" src="https://raw.githubusercontent.com/parasagrawal71/parasagrawal71/master/img/portfolio.png" /></a>
+<!-- <a href="https://parasagrawal.web.app" target="_blank" rel="noopener noreferrer"><img align="left" title="Portfolio" alt="parasagrawal71 | Portfolio" width="26px" src="https://raw.githubusercontent.com/parasagrawal71/parasagrawal71/master/img/portfolio.png" /></a> -->
 <a href="https://www.instagram.com/paras__fbg" target="_blank" rel="noopener noreferrer"><img align="left" title="Instagram" alt="parasagrawal71 | Instagram" width="22px" src="https://cdn.simpleicons.org/instagram" /></a>
 
 <br />
@@ -23,11 +23,11 @@
     <td><strong>Backend</strong></td>
     <td valign="middle">
       <!-- Backend -->
+        <img align="left" title="Python" alt="python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
         <img align="left" title="GoLang" alt="golang" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />
         <img align="left" title="TypeScript" alt="typescript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
         <img align="left" title="Nest.js" alt="nestjs" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
         <img align="left" title="Node.js" alt="node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-        <img align="left" title="Python" alt="python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
         <!-- <img align="left" title="API" alt="api" width="26px" src="https://raw.githubusercontent.com/parasagrawal71/parasagrawal71/master/img/api.png" /> -->
         <img align="left" title="AWS" alt="aws" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" /> 
         <img align="left" title="Docker" alt="docker" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
@@ -36,6 +36,8 @@
         <img align="left" title="Redis" alt="redis" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" />
     </td>
   </tr>
+
+  <!-- 
   <tr>
     <td><strong>Frontend</strong></td>
     <td valign="middle">
@@ -50,6 +52,8 @@
         <img align="left" title="GraphQL" alt="graphql" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" />
     </td>
   </tr>
+  -->
+  
   <tr>
     <td><strong>Database</strong></td>
     <td valign="middle">
@@ -59,6 +63,7 @@
     <img align="left" title="MongoDB" alt="mongodb" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
     </td>
   </tr>
+  
   <tr>
     <td><strong>Others</strong></td>
     <td valign="middle">
